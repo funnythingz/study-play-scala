@@ -3,8 +3,6 @@ study-play-scala
 
 I study PlayFramework
 
-# Scala/PlayFramework 入門
-
 ## Install
 
 ```sh
