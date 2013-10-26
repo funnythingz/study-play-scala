@@ -3,6 +3,9 @@ study-play-scala
 
 I study PlayFramework
 
+http://www.playframework.com/ <br>
+http://www.scala-lang.org/
+
 ## Install
 
 ```sh
