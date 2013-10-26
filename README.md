@@ -89,6 +89,8 @@ play 2.2.0 built with Scala 2.10.2 (running Java 1.7.0_45), http://www.playframe
 
 ## Setting up IntelliJ
 
+http://www.jetbrains.com/idea/
+
 ```sh
 [todolist] $ idea with-sources=yes
 ```
